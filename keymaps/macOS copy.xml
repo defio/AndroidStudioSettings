@@ -1,0 +1,24 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Android.Designer.AutoArrange" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta delete" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="GotoLine" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+</keymap>
