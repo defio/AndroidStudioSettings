@@ -18,7 +18,8 @@
     <mask>*.kt</mask>
     <mask>*.pro</mask>
     <mask>*</mask>
-    <mask>*.toml</mask>
     <mask>*Activity.kt</mask>
+    <mask>*.gradle</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
