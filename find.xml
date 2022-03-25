@@ -21,5 +21,6 @@
     <mask>*Activity.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.toml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
