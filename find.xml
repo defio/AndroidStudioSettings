@@ -9,7 +9,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>Local*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*Test.kt</mask>
     <mask>*LocalSource.kt</mask>
     <mask>Remote*.kt</mask>
@@ -21,6 +20,7 @@
     <mask>*Activity.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.toml</mask>
-    <mask>*.json</mask>
+    <mask>*.xml</mask>
+    <mask>*request*.xml</mask>
   </component>
 </application>
