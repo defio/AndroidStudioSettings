@@ -23,5 +23,6 @@
     <mask>*.gradle</mask>
     <mask>*.toml</mask>
     <mask>*fragment.kt</mask>
+    <mask>*viewmodel.kt</mask>
   </component>
 </application>
