@@ -22,5 +22,6 @@
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.toml</mask>
+    <mask>*fragment.kt</mask>
   </component>
 </application>
