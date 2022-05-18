@@ -26,5 +26,6 @@
     <mask>*converter.kt</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*Coordinator.kt</mask>
   </component>
 </application>
