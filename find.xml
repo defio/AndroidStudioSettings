@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,8 +25,8 @@
     <mask>*fragment.kt</mask>
     <mask>*viewmodel.kt</mask>
     <mask>*converter.kt</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*Coordinator.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
