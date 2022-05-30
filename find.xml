@@ -18,7 +18,6 @@
     <mask>*</mask>
     <mask>*Activity.kt</mask>
     <mask>*request*.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.toml</mask>
     <mask>*fragment.kt</mask>
@@ -27,5 +26,6 @@
     <mask>*.json</mask>
     <mask>*Coordinator.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
