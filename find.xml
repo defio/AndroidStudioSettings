@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../modules/features/TransferDetail/src/test/kotlin/com/qonto/qonto/feature/transferdetail/detail/TransferDetailsViewModelTest.kt [qonto-android.features.TransferDetail]'" />
-    <option name="defaultScopeName" value="File '.../modules/features/TransferDetail/src/test/kotlin/com/qonto/qonto/feature/transferdetail/detail/TransferDetailsViewModelTest.kt [qonto-android.features.TransferDetail]'" />
-    <option name="SEARCH_SCOPE" value="File '.../modules/features/TransferDetail/src/test/kotlin/com/qonto/qonto/feature/transferdetail/detail/TransferDetailsViewModelTest.kt [qonto-android.features.TransferDetail]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
