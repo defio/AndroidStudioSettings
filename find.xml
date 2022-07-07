@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +17,6 @@
     <mask>*.pro</mask>
     <mask>*</mask>
     <mask>*request*.xml</mask>
-    <mask>*.toml</mask>
     <mask>*fragment.kt</mask>
     <mask>*viewmodel.kt</mask>
     <mask>*converter.kt</mask>
@@ -31,5 +29,6 @@
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
