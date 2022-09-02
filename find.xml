@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Activity.kt" />
+    <option name="FILE_MASK" value="*ViewModel.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,7 +14,6 @@
     <mask>*LocalSource.kt</mask>
     <mask>Remote*.kt</mask>
     <mask>I*.kt</mask>
-    <mask>*ViewModel.kt</mask>
     <mask>*.pro</mask>
     <mask>*</mask>
     <mask>*request*.xml</mask>
@@ -31,5 +30,6 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*Activity.kt</mask>
+    <mask>*ViewModel.kt</mask>
   </component>
 </application>
