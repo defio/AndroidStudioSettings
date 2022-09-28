@@ -22,7 +22,6 @@
     <mask>*.json</mask>
     <mask>*Coordinator.kt</mask>
     <mask>*Module.kt</mask>
-    <mask>*Fragment.kt</mask>
     <mask>*.sh</mask>
     <mask>*.toml</mask>
     <mask>*.gradle</mask>
@@ -31,5 +30,6 @@
     <mask>*.kt</mask>
     <mask>*.csv</mask>
     <mask>*.xml</mask>
+    <mask>*Fragment.kt</mask>
   </component>
 </application>
