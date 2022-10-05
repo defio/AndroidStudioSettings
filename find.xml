@@ -33,5 +33,6 @@
     <mask>*Fragment.kt</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*.xml</mask>
+    <mask>styl*.xml</mask>
   </component>
 </application>
