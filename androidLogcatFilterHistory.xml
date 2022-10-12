@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine kyb" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine kyb" />
+        <option value="package:mine kyb_status" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine OkHttp" />
