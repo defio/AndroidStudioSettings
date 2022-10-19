@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine setNavigationOnClickListener" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine setNavigationOnClickListener" />
         <option value="package:mine " />
         <option value="package:mine kyb" />
         <option value="package:mine kyb_status" />
