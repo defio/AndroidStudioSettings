@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*fragment*.kt" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>Local*.kt</mask>
@@ -25,7 +25,6 @@
     <mask>*.toml</mask>
     <mask>*.gradle</mask>
     <mask>*Activity.kt</mask>
-    <mask>*.kt</mask>
     <mask>*.csv</mask>
     <mask>*Fragment.kt</mask>
     <mask>*ViewModel.kt</mask>
@@ -36,5 +35,6 @@
     <mask>Default*Repository*.kt</mask>
     <mask>*.xml</mask>
     <mask>*fragment*.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
