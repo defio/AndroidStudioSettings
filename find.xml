@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>Local*.kt</mask>
     <mask>*LocalSource.kt</mask>
     <mask>Remote*.kt</mask>
@@ -33,7 +34,7 @@
     <mask>*fragment*.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*UseCase.kt</mask>
-    <mask>*.kt</mask>
     <mask>Remote*Converter.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
