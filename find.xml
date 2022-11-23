@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.kt" />
     <mask>Local*.kt</mask>
     <mask>*LocalSource.kt</mask>
     <mask>Remote*.kt</mask>
@@ -26,7 +27,6 @@
     <mask>*ViewModel.kt</mask>
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
-    <mask>*Test.kt</mask>
     <mask>*Remote*.kt</mask>
     <mask>Default*Repository*.kt</mask>
     <mask>*.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*UseCase.kt</mask>
     <mask>Remote*Converter.kt</mask>
     <mask>*.kt</mask>
+    <mask>*Test.kt</mask>
   </component>
 </application>
