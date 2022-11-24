@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine okhttp" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine okhttp" />
         <option value="package:mine" />
         <option value="package:mine &quot;error visible&quot;" />
-        <option value="package:mine " />
         <option value="package:mine level:" />
         <option value="package:mine setNavigationOnClickListener" />
         <option value="package:mine kyb" />
