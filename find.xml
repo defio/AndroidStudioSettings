@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
-    <mask>Local*.kt</mask>
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*LocalSource.kt</mask>
     <mask>Remote*.kt</mask>
     <mask>I*.kt</mask>
@@ -21,7 +20,6 @@
     <mask>*Module.kt</mask>
     <mask>*.sh</mask>
     <mask>*.toml</mask>
-    <mask>*.gradle</mask>
     <mask>*Activity.kt</mask>
     <mask>*.csv</mask>
     <mask>*ViewModel.kt</mask>
@@ -36,5 +34,7 @@
     <mask>*Test.kt</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*Viewmodel.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
