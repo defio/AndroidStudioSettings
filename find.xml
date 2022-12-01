@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ui*Builder.kt" />
+    <option name="FILE_MASK" value="*Fragment.kt" />
     <mask>Remote*.kt</mask>
     <mask>I*.kt</mask>
     <mask>*.pro</mask>
@@ -31,8 +31,8 @@
     <mask>*.kt</mask>
     <mask>*Viewmodel.kt</mask>
     <mask>*.gradle</mask>
-    <mask>*Fragment.kt</mask>
     <mask>*Test.kt</mask>
     <mask>*ui*Builder.kt</mask>
+    <mask>*Fragment.kt</mask>
   </component>
 </application>
