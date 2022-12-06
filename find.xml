@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Activity.kt" />
     <mask>Remote*.kt</mask>
     <mask>I*.kt</mask>
     <mask>*.pro</mask>
@@ -18,7 +19,6 @@
     <mask>*Module.kt</mask>
     <mask>*.sh</mask>
     <mask>*.toml</mask>
-    <mask>*Activity.kt</mask>
     <mask>*.csv</mask>
     <mask>*ViewModel.kt</mask>
     <mask>styl*.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*Test.kt</mask>
     <mask>*ui*Builder.kt</mask>
     <mask>*Fragment.kt</mask>
+    <mask>*Activity.kt</mask>
   </component>
 </application>
