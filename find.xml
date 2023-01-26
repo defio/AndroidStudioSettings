@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*Coordinator.kt" />
     <mask>Remote*.kt</mask>
     <mask>I*.kt</mask>
     <mask>*.pro</mask>
@@ -14,7 +14,6 @@
     <mask>*fragment.kt</mask>
     <mask>*viewmodel.kt</mask>
     <mask>*converter.kt</mask>
-    <mask>*Coordinator.kt</mask>
     <mask>*Module.kt</mask>
     <mask>*.sh</mask>
     <mask>*.toml</mask>
@@ -36,5 +35,6 @@
     <mask>*.json</mask>
     <mask>*Activity.kt</mask>
     <mask>*.kt</mask>
+    <mask>*Coordinator.kt</mask>
   </component>
 </application>
