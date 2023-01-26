@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>Remote*.kt</mask>
     <mask>I*.kt</mask>
     <mask>*.pro</mask>
@@ -33,7 +34,7 @@
     <mask>*ui*Builder.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.json</mask>
-    <mask>*.kt</mask>
     <mask>*Activity.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
