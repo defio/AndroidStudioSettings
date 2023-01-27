@@ -3,8 +3,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine TransferCreationActivity" />
         <option value="package:mine TransferCreationDetailsFragment" />
         <option value="package:mine TransferCreationAdditionalInformationFragment" />
+        <option value="package:mine onVaTUpdate" />
         <option value="package:mine TransferCreationBeneficiaryFragment" />
         <option value="package:mine beneficiariesListItems" />
         <option value="package:mine okhttp " />
