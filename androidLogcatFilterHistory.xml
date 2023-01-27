@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine TransferCreationBeneficiaryFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine TransferCreationBeneficiaryFragment" />
         <option value="package:mine TransferCreationDetailsFragment" />
         <option value="package:mine beneficiariesListItems" />
-        <option value="package:mine " />
         <option value="package:mine okhttp " />
         <option value="package:mine okhttp" />
         <option value="package:mine --&gt; GET https://qonto-replica-prod.prismic.io/api" />
