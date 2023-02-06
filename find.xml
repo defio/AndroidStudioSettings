@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>I*.kt</mask>
+    <option name="FILE_MASK" value="*yml" />
     <mask>*.pro</mask>
     <mask>*</mask>
     <mask>*request*.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*Coordinator.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*Test*.kt</mask>
+    <mask>*yml</mask>
   </component>
 </application>
