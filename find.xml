@@ -23,7 +23,6 @@
     <mask>Remote*Converter.kt</mask>
     <mask>*.xml</mask>
     <mask>*Viewmodel.kt</mask>
-    <mask>*.gradle</mask>
     <mask>*Test.kt</mask>
     <mask>*ui*Builder.kt</mask>
     <mask>*.json</mask>
@@ -33,5 +32,6 @@
     <mask>*Test*.kt</mask>
     <mask>*yml</mask>
     <mask>*Fragment.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
