@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.pro</mask>
     <mask>*</mask>
     <mask>*request*.xml</mask>
@@ -27,11 +28,11 @@
     <mask>*ui*Builder.kt</mask>
     <mask>*.json</mask>
     <mask>*Activity.kt</mask>
-    <mask>*.kt</mask>
     <mask>*Coordinator.kt</mask>
     <mask>*Test*.kt</mask>
     <mask>*yml</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
