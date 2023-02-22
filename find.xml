@@ -25,7 +25,6 @@
     <mask>*Viewmodel.kt</mask>
     <mask>*ui*Builder.kt</mask>
     <mask>*.json</mask>
-    <mask>*Activity.kt</mask>
     <mask>*Coordinator.kt</mask>
     <mask>*Test*.kt</mask>
     <mask>*yml</mask>
@@ -33,5 +32,6 @@
     <mask>*.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*Test.kt</mask>
+    <mask>*Activity.kt</mask>
   </component>
 </application>
