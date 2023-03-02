@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ViewModel.kt" />
     <mask>*.pro</mask>
     <mask>*</mask>
     <mask>*request*.xml</mask>
@@ -14,7 +15,6 @@
     <mask>*.sh</mask>
     <mask>*.toml</mask>
     <mask>*.csv</mask>
-    <mask>*ViewModel.kt</mask>
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
     <mask>*Remote*.kt</mask>
@@ -35,5 +35,6 @@
     <mask>*Activity.kt</mask>
     <mask>*.kt</mask>
     <mask>*Module.kt</mask>
+    <mask>*ViewModel.kt</mask>
   </component>
 </application>
