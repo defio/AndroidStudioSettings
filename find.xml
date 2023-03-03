@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.toml" />
     <mask>*.pro</mask>
     <mask>*</mask>
     <mask>*request*.xml</mask>
@@ -12,7 +13,6 @@
     <mask>*viewmodel.kt</mask>
     <mask>*converter.kt</mask>
     <mask>*.sh</mask>
-    <mask>*.toml</mask>
     <mask>*.csv</mask>
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
@@ -35,5 +35,6 @@
     <mask>*.kt</mask>
     <mask>*Module.kt</mask>
     <mask>*ViewModel.kt</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
