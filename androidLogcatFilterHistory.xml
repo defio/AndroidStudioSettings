@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DefaultMyNewObject" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine DefaultMyNewObject" />
-        <option value="package:mine level:error " />
         <option value="package:mine " />
+        <option value="package:mine level:error " />
+        <option value="package:mine DefaultMyNewObject" />
         <option value="package:mine filters" />
         <option value="package:mine okhttp" />
         <option value="package:mine TransferCreationActivity" />
