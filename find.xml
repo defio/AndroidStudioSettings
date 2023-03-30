@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.pro</mask>
     <mask>*</mask>
     <mask>*request*.xml</mask>
@@ -18,7 +19,6 @@
     <mask>*fragment*.kt</mask>
     <mask>*UseCase.kt</mask>
     <mask>Remote*Converter.kt</mask>
-    <mask>*.xml</mask>
     <mask>*Viewmodel.kt</mask>
     <mask>*ui*Builder.kt</mask>
     <mask>*.json</mask>
@@ -33,5 +33,6 @@
     <mask>*ViewModel.kt</mask>
     <mask>*.toml</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
