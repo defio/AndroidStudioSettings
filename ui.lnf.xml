@@ -9,5 +9,6 @@
     <option name="MAX_LOOKUP_WIDTH2" value="1344" />
     <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
   </component>
 </application>
