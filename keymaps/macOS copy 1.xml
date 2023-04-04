@@ -8,6 +8,14 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta delete" />
   </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta equals" />
+    <keyboard-shortcut first-keystroke="meta plus" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt equals" />
+    <keyboard-shortcut first-keystroke="meta alt plus" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
