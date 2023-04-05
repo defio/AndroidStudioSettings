@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.pro</mask>
     <mask>*</mask>
     <mask>*request*.xml</mask>
@@ -32,7 +32,7 @@
     <mask>*Module.kt</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*.toml</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
