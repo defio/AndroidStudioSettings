@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine getCheckMandate" />
+    <option name="mostRecentlyUsed" value="package:mine fetch mandate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fetch mandate" />
+        <option value="package:mine mandate" />
         <option value="package:mine getCheckMandate" />
         <option value="package:mine okhttp" />
         <option value="package:mine pubsu" />
@@ -21,8 +23,6 @@
         <option value="package:mine okhttp " />
         <option value="package:mine --&gt; GET https://qonto-replica-prod.prismic.io/api" />
         <option value="package:mine PrismicRetrofitServiceWithRetryPolicy" />
-        <option value="package:mine" />
-        <option value="package:mine &quot;error visible&quot;" />
       </list>
     </option>
   </component>
