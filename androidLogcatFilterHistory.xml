@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine BankCheckMandateLocalSource " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine BankCheckMandateLocalSource " />
         <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine fetchCheckMandate" />
@@ -22,7 +23,6 @@
         <option value="package:mine TransferCreationBeneficiaryFragment" />
         <option value="package:mine beneficiariesListItems" />
         <option value="package:mine okhttp " />
-        <option value="package:mine --&gt; GET https://qonto-replica-prod.prismic.io/api" />
       </list>
     </option>
   </component>
