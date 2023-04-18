@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine BankCheckMandate " />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine BankCheckMandate " />
         <option value="package:mine Mandate " />
         <option value="package:mine observeBankCheckMandateApplicationService " />
@@ -22,7 +23,6 @@
         <option value="package:mine TransferCreationActivity" />
         <option value="package:mine TransferCreationDetailsFragment" />
         <option value="package:mine TransferCreationAdditionalInformationFragment" />
-        <option value="package:mine onVaTUpdate" />
       </list>
     </option>
   </component>
