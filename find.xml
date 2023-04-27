@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.kt" />
     <mask>*.pro</mask>
     <mask>*</mask>
     <mask>*request*.xml</mask>
@@ -25,7 +26,6 @@
     <mask>*Test*.kt</mask>
     <mask>*yml</mask>
     <mask>*.gradle</mask>
-    <mask>*Test.kt</mask>
     <mask>*Activity.kt</mask>
     <mask>*Module.kt</mask>
     <mask>*.toml</mask>
@@ -33,5 +33,6 @@
     <mask>*.xml</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*Fragment.kt</mask>
+    <mask>*Test.kt</mask>
   </component>
 </application>
