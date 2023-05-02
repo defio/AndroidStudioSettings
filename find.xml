@@ -27,11 +27,11 @@
     <mask>*Activity.kt</mask>
     <mask>*Module.kt</mask>
     <mask>*.toml</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*Test.kt</mask>
     <mask>*ViewModelTest.kt</mask>
     <mask>*Fragment.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
