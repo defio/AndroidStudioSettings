@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  level:error " />
+    <option name="mostRecentlyUsed" value="package:mine   okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine   okhttp" />
+        <option value="package:mine   " />
         <option value="package:mine  level:error " />
         <option value="package:mine  okhttp" />
         <option value="package:mine  showEmptyState" />
@@ -21,8 +23,6 @@
         <option value="package:mine getCheckMandate" />
         <option value="package:mine okhttp" />
         <option value="package:mine pubsu" />
-        <option value="package:mine http" />
-        <option value="package:mine ConfirmSubscriptionUpdateViewModel" />
       </list>
     </option>
   </component>
