@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*request*.xml</mask>
+    <option name="FILE_MASK" value="*remote*.kt" />
     <mask>*fragment.kt</mask>
     <mask>*viewmodel.kt</mask>
     <mask>*converter.kt</mask>
@@ -33,5 +33,6 @@
     <mask>*.kt</mask>
     <mask>Fake*.kt</mask>
     <mask>*Activity.kt</mask>
+    <mask>*remote*.kt</mask>
   </component>
 </application>
