@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine bank_account.synced" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine bank_account.synced" />
+        <option value="package:mine pubsub" />
+        <option value="package:mine pub" />
+        <option value="package:mine sub" />
         <option value="package:mine " />
+        <option value="package:mine qa-te" />
         <option value="package:mine okhttp" />
         <option value="package:mine" />
         <option value="package:mine   okhttp" />
@@ -17,11 +23,6 @@
         <option value="package:mine Mandate " />
         <option value="package:mine observeBankCheckMandateApplicationService " />
         <option value="package:mine BankCheckMandateLocalSource " />
-        <option value="package:mine level:error " />
-        <option value="package:mine fetchCheckMandate" />
-        <option value="package:mine fetch mandate" />
-        <option value="package:mine mandate" />
-        <option value="package:mine getCheckMandate" />
       </list>
     </option>
   </component>
