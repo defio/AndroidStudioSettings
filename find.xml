@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*fragment.kt</mask>
     <mask>*viewmodel.kt</mask>
     <mask>*converter.kt</mask>
@@ -24,7 +25,6 @@
     <mask>*.gradle</mask>
     <mask>*Module.kt</mask>
     <mask>*.toml</mask>
-    <mask>*.xml</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*Test.kt</mask>
     <mask>*ViewModelTest.kt</mask>
@@ -33,5 +33,6 @@
     <mask>Fake*.kt</mask>
     <mask>*Activity.kt</mask>
     <mask>*remote*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
