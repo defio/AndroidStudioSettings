@@ -2,10 +2,19 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToPascalCaseOrCamelCaseAction" />
-        <option name="description" value="Toggle: PascalCase / camelCase" />
-        <option name="textWithMnemonic" value="PascalCase / camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.sort.tokens.SortTokensAction" />
+        <option name="description" value="Sort delimited text" />
+        <option name="textWithMnemonic" value="Sort Tokens..." />
       </UniversalActionModel>
+    </option>
+    <option name="sortTokensModel">
+      <SortTokensModel>
+        <option name="separators">
+          <list>
+            <option value="," />
+          </list>
+        </option>
+      </SortTokensModel>
     </option>
   </component>
 </application>
