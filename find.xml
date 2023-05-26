@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*fragment.kt</mask>
     <mask>*viewmodel.kt</mask>
     <mask>*converter.kt</mask>
     <mask>*.sh</mask>
@@ -33,5 +32,6 @@
     <mask>*Activity.kt</mask>
     <mask>*remote*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*LocalSource.kt</mask>
   </component>
 </application>
