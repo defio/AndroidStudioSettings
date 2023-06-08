@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine okhttp" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine okhttp" />
         <option value="package:mine fx_status" />
@@ -22,7 +23,6 @@
         <option value="package:mine  BankCheckListActivityViewModel" />
         <option value="package:mine BankCheckMandate " />
         <option value="package:mine Mandate " />
-        <option value="package:mine observeBankCheckMandateApplicationService " />
       </list>
     </option>
   </component>
