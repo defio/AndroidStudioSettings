@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine amount:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine amount:" />
+        <option value="package:mine amount:2" />
         <option value="package:mine " />
         <option value="package:mine amount" />
         <option value="package:mine level:error " />
@@ -20,8 +23,6 @@
         <option value="package:mine  showEmptyState" />
         <option value="package:mine  " />
         <option value="package:mine  level:error 21" />
-        <option value="package:mine  BankCheckListActivityViewModel" />
-        <option value="package:mine BankCheckMandate " />
       </list>
     </option>
   </component>
