@@ -31,7 +31,7 @@
     <mask>*Service*.kt</mask>
     <mask>*response.kt</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*ViewModel.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
