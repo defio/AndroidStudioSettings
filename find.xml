@@ -23,7 +23,6 @@
     <mask>*.toml</mask>
     <mask>*ViewModelTest.kt</mask>
     <mask>Fake*.kt</mask>
-    <mask>*Activity.kt</mask>
     <mask>*remote*.kt</mask>
     <mask>*LocalSource.kt</mask>
     <mask>*Service*.kt</mask>
@@ -33,5 +32,6 @@
     <mask>*ViewModel.kt</mask>
     <mask>*Test.kt</mask>
     <mask>*Fragment.kt</mask>
+    <mask>*Activity.kt</mask>
   </component>
 </application>
