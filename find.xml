@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ViewModel.kt" />
     <mask>*.sh</mask>
     <mask>*.csv</mask>
     <mask>styl*.xml</mask>
@@ -30,8 +31,8 @@
     <mask>*Service*.kt</mask>
     <mask>*response.kt</mask>
     <mask>*.kt</mask>
-    <mask>*ViewModel.kt</mask>
     <mask>*.xml</mask>
     <mask>*Fragment.kt</mask>
+    <mask>*ViewModel.kt</mask>
   </component>
 </application>
