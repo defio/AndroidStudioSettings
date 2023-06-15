@@ -30,8 +30,8 @@
     <mask>*response.kt</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
-    <mask>*Fragment.kt</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*Test.kt</mask>
+    <mask>*Fragment.kt</mask>
   </component>
 </application>
