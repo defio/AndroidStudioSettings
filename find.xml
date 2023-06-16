@@ -28,10 +28,10 @@
     <mask>*Service*.kt</mask>
     <mask>*response.kt</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*Test.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*Activity.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
