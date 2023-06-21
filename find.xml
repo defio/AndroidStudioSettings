@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.sh</mask>
+    <option name="FILE_MASK" value="Local*.kt" />
     <mask>*.csv</mask>
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
@@ -33,5 +33,6 @@
     <mask>*Fragment.kt</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>Local*.kt</mask>
   </component>
 </application>
