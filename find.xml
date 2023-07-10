@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Module.kt" />
+    <option name="FILE_MASK" value="*.toml" />
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
     <mask>*Remote*.kt</mask>
@@ -32,7 +32,7 @@
     <mask>*.kt</mask>
     <mask>Local*.kt</mask>
     <mask>*.tml</mask>
-    <mask>*.toml</mask>
     <mask>*Module.kt</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
