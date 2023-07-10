@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Module.kt" />
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
     <mask>*Remote*.kt</mask>
@@ -17,7 +18,6 @@
     <mask>*Test*.kt</mask>
     <mask>*yml</mask>
     <mask>*.gradle</mask>
-    <mask>*Module.kt</mask>
     <mask>*ViewModelTest.kt</mask>
     <mask>Fake*.kt</mask>
     <mask>*remote*.kt</mask>
@@ -33,5 +33,6 @@
     <mask>Local*.kt</mask>
     <mask>*.tml</mask>
     <mask>*.toml</mask>
+    <mask>*Module.kt</mask>
   </component>
 </application>
