@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine biller" />
         <option value="package:mine fragment" />
         <option value="package:mine okhttp" />
         <option value="package:mine" />
@@ -12,7 +13,6 @@
         <option value="package:mine  pubsu" />
         <option value="package:mine  " />
         <option value="package:mine okhttp " />
-        <option value="package:mine " />
         <option value="package:mine onDestroyView" />
         <option value="package:mine level:error " />
         <option value="package:mine amount:" />
@@ -22,7 +22,6 @@
         <option value="package:mine bank_account.synced" />
         <option value="package:mine pubsub" />
         <option value="package:mine pub" />
-        <option value="package:mine sub" />
       </list>
     </option>
   </component>
