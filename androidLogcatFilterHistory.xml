@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine okhttp" />
+        <option value="package:mine Fragment" />
         <option value="package:mine " />
         <option value="package:mine biller" />
         <option value="package:mine fragment" />
@@ -22,7 +23,6 @@
         <option value="package:mine fx_status" />
         <option value="package:mine bank_account.synced" />
         <option value="package:mine pubsub" />
-        <option value="package:mine pub" />
       </list>
     </option>
   </component>
