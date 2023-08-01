@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
     <mask>*Remote*.kt</mask>
@@ -28,10 +29,10 @@
     <mask>*Activity.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.xml</mask>
-    <mask>*.kt</mask>
     <mask>Local*.kt</mask>
     <mask>*.tml</mask>
     <mask>*Module.kt</mask>
     <mask>*.toml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
