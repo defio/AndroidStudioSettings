@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.toml" />
+    <option name="FILE_MASK" value="*Test.kt" />
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
     <mask>*Remote*.kt</mask>
@@ -25,7 +25,6 @@
     <mask>*Service*.kt</mask>
     <mask>*response.kt</mask>
     <mask>*ViewModel.kt</mask>
-    <mask>*Test.kt</mask>
     <mask>*Activity.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.xml</mask>
@@ -34,5 +33,6 @@
     <mask>*Module.kt</mask>
     <mask>*.kt</mask>
     <mask>*.toml</mask>
+    <mask>*Test.kt</mask>
   </component>
 </application>
