@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine okhttp" />
+        <option value="package:mine " />
         <option value="package:mine GET http://localhost:50000/api/v3/f24_orders?organization_id=organization-id&amp;status_group" />
         <option value="package:mine GET http://localhost:50000/api/v3/f24_orders?organization_id=organization-id&amp;status_group=pendin" />
         <option value="package:mine Fragment" />
