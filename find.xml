@@ -33,5 +33,6 @@
     <mask>*.kt</mask>
     <mask>*.toml</mask>
     <mask>*Test.kt</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
