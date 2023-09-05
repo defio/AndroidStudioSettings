@@ -27,12 +27,12 @@
     <mask>*Fragment.kt</mask>
     <mask>Local*.kt</mask>
     <mask>*.tml</mask>
-    <mask>*Module.kt</mask>
     <mask>*.kt</mask>
     <mask>*.toml</mask>
     <mask>*Test.kt</mask>
     <mask>*.yml</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*Module.kt</mask>
   </component>
 </application>
