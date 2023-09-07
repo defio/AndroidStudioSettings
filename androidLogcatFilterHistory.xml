@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:info Transactions List" />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp" />
         <option value="level:info Transactions List" />
         <option value="Transactions List" />
-        <option value="okhttp" />
         <option value="okh" />
         <option value="level:error " />
         <option value="track eventName=" />
