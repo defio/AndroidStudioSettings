@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="Transactions List" />
     <option name="nonFavorites">
       <list>
+        <option value="Transactions List" />
         <option value="okhttp" />
         <option value="okh" />
         <option value="level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine  pubsu" />
         <option value="package:mine  " />
         <option value="package:mine okhttp " />
-        <option value="package:mine onDestroyView" />
       </list>
     </option>
   </component>
