@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Transactions List" />
+    <option name="mostRecentlyUsed" value="level:info Transactions List" />
     <option name="nonFavorites">
       <list>
+        <option value="level:info Transactions List" />
         <option value="Transactions List" />
         <option value="okhttp" />
         <option value="okh" />
@@ -22,7 +23,6 @@
         <option value="package:mine  pubsu TRANSACTION_SETTLED" />
         <option value="package:mine  pubsu" />
         <option value="package:mine  " />
-        <option value="package:mine okhttp " />
       </list>
     </option>
   </component>
