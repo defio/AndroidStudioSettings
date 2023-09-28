@@ -22,7 +22,6 @@
     <mask>*LocalSource.kt</mask>
     <mask>*Service*.kt</mask>
     <mask>*response.kt</mask>
-    <mask>*ViewModel.kt</mask>
     <mask>*Activity.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>Local*.kt</mask>
@@ -34,5 +33,6 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*Module.kt</mask>
+    <mask>*ViewModel.kt</mask>
   </component>
 </application>
