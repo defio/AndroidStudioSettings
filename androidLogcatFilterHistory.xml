@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine PrefillFiscalDetailsApplicationService " />
+    <option name="mostRecentlyUsed" value="package:mine saveInvoiceAsDraft." />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine saveInvoiceAsDraft." />
+        <option value="package:mine saveInvoiceAsDraft " />
         <option value="package:mine PrefillFiscalDetailsApplicationService " />
         <option value="package:mine okhttp " />
         <option value="package:mine okhttp v3/receivable_invoices " />
@@ -21,8 +23,6 @@
         <option value="package:mine GET http://localhost:50000/api/v3/f24_orders?organization_id=organization-id&amp;status_group" />
         <option value="package:mine GET http://localhost:50000/api/v3/f24_orders?organization_id=organization-id&amp;status_group=pendin" />
         <option value="package:mine Fragment" />
-        <option value="package:mine biller" />
-        <option value="package:mine fragment" />
       </list>
     </option>
   </component>
