@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine test -&gt;" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine test -&gt;" />
+        <option value="package:mine " />
         <option value="package:mine okhttp" />
+        <option value="package:mine test -&gt; " />
+        <option value="package:mine test -&gt;" />
         <option value="package:mine &quot;test -&gt;&quot;" />
         <option value="package:mine invoice.status:" />
         <option value="package:mine createInvoice" />
@@ -21,8 +22,6 @@
         <option value="Transactions List" />
         <option value="okh" />
         <option value="level:error " />
-        <option value="track eventName=" />
-        <option value="bank-a" />
       </list>
     </option>
   </component>
