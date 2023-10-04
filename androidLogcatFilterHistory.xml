@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine NewSwiftTransferActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine NewSwiftTransferActivity " />
         <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine okhttp" />
@@ -22,7 +23,6 @@
         <option value="okhttp" />
         <option value="level:info Transactions List" />
         <option value="Transactions List" />
-        <option value="okh" />
       </list>
     </option>
   </component>
