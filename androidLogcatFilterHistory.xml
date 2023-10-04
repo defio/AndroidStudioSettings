@@ -4,11 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine Dispatched Action:  " />
+        <option value="package:mine " />
         <option value="package:mine Activity " />
         <option value="package:mine NewSwiftTransferActivity " />
         <option value="package:mine   " />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:mine okhttp" />
         <option value="package:mine test -&gt; " />
         <option value="package:mine test -&gt;" />
