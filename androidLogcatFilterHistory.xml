@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Dispatched Action:  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Dispatched Action:  " />
         <option value="package:mine " />
+        <option value="package:mine Dispatched Action:  " />
         <option value="package:mine Activity " />
         <option value="package:mine NewSwiftTransferActivity " />
         <option value="package:mine   " />
