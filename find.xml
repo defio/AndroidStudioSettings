@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
     <mask>*Remote*.kt</mask>
@@ -31,10 +32,10 @@
     <mask>*Test.kt</mask>
     <mask>*.yml</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*Module.kt</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*ViewModelTest.kt</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
