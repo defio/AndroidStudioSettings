@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Dispatched Action:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Dispatched Action:" />
         <option value="package:mine " />
         <option value="package:mine Dispatched Action:  " />
         <option value="package:mine Activity " />
@@ -21,7 +23,6 @@
         <option value="package:mine okhttp v3/receivable_invoices " />
         <option value="87c32a7a-af41-4c85-b77a-96348a089f09" />
         <option value="Watching instance of" />
-        <option value="fragment" />
       </list>
     </option>
   </component>
