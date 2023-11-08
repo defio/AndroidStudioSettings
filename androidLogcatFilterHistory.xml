@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine err" />
+    <option name="mostRecentlyUsed" value="package:mine NewBeneficiaryCoreInfoViewModel created" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine NewBeneficiaryCoreInfoViewModel created" />
+        <option value="package:mine created" />
         <option value="package:mine err" />
         <option value="package:mine " />
         <option value="package:mine okhttp" />
@@ -21,8 +23,6 @@
         <option value="package:mine saveInvoiceAsDraft." />
         <option value="package:mine saveInvoiceAsDraft " />
         <option value="package:mine PrefillFiscalDetailsApplicationService " />
-        <option value="package:mine okhttp " />
-        <option value="package:mine okhttp v3/receivable_invoices " />
       </list>
     </option>
   </component>
