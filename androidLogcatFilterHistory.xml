@@ -4,11 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine okhttp" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine NewBeneficiaryCoreInfoViewModel created" />
         <option value="package:mine created" />
         <option value="package:mine err" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine level:error component" />
         <option value="package:mine Dispatched Action:" />
