@@ -1,11 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp " />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
-        <option value="okhttp " />
-        <option value="--" />
-        <option value="package:mine" />
+        <option value="package:mine okhttp" />
+        <option value="package:mine " />
+        <option value="package:mine level:error " />
+        <option value="package:mine level:error component" />
+        <option value="package:mine Dispatched Action:" />
+        <option value="package:mine Dispatched Action:  " />
+        <option value="package:mine Activity " />
+        <option value="package:mine NewSwiftTransferActivity " />
+        <option value="package:mine   " />
+        <option value="package:mine test -&gt; " />
+        <option value="package:mine test -&gt;" />
+        <option value="package:mine &quot;test -&gt;&quot;" />
+        <option value="package:mine invoice.status:" />
+        <option value="package:mine createInvoice" />
+        <option value="package:mine saveInvoiceAsDraft." />
+        <option value="package:mine saveInvoiceAsDraft " />
+        <option value="package:mine PrefillFiscalDetailsApplicationService " />
+        <option value="package:mine okhttp " />
+        <option value="package:mine okhttp v3/receivable_invoices " />
+        <option value="87c32a7a-af41-4c85-b77a-96348a089f09" />
       </list>
     </option>
   </component>
