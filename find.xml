@@ -29,11 +29,11 @@
     <mask>*.yml</mask>
     <mask>*.gradle</mask>
     <mask>*Module.kt</mask>
-    <mask>*ViewModel.kt</mask>
     <mask>*ViewModelTest.kt</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*Test.kt</mask>
     <mask>*ScreenshotTest.kt</mask>
+    <mask>*ViewModel.kt</mask>
   </component>
 </application>
