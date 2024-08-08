@@ -35,5 +35,6 @@
     <mask>*Test.kt</mask>
     <mask>*ScreenshotTest.kt</mask>
     <mask>*ViewModel.kt</mask>
+    <mask>*Repository.kt</mask>
   </component>
 </application>
