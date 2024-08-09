@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine okhttp" />
+    <option name="mostRecentlyUsed" value="package:mine fragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fragment" />
         <option value="package:mine okhttp" />
         <option value="package:mine " />
         <option value="package:mine activity" />
@@ -22,7 +23,6 @@
         <option value="package:mine &quot;test -&gt;&quot;" />
         <option value="package:mine invoice.status:" />
         <option value="package:mine createInvoice" />
-        <option value="package:mine saveInvoiceAsDraft." />
       </list>
     </option>
   </component>
