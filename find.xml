@@ -27,7 +27,6 @@
     <mask>*.tml</mask>
     <mask>*.toml</mask>
     <mask>*.yml</mask>
-    <mask>*.gradle</mask>
     <mask>*Module.kt</mask>
     <mask>*ViewModelTest.kt</mask>
     <mask>*.kt</mask>
@@ -36,5 +35,6 @@
     <mask>*ScreenshotTest.kt</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*Repository.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
