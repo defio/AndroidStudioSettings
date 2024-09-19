@@ -16,6 +16,9 @@
     <keyboard-shortcut first-keystroke="meta alt equals" />
     <keyboard-shortcut first-keystroke="meta alt plus" />
   </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
