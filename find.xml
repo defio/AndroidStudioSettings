@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
     <mask>*Remote*.kt</mask>
@@ -26,7 +27,6 @@
     <mask>Local*.kt</mask>
     <mask>*.tml</mask>
     <mask>*.toml</mask>
-    <mask>*.yml</mask>
     <mask>*Module.kt</mask>
     <mask>*ViewModelTest.kt</mask>
     <mask>*.kt</mask>
@@ -38,5 +38,6 @@
     <mask>*RemoteSource.kt</mask>
     <mask>*Test.kt</mask>
     <mask>*</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
