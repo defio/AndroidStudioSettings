@@ -37,5 +37,6 @@
     <mask>*Repository.kt</mask>
     <mask>*RemoteSource.kt</mask>
     <mask>*Test.kt</mask>
+    <mask>*</mask>
   </component>
 </application>
