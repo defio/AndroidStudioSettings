@@ -1,0 +1,17 @@
+<application>
+  <component name="GoogleLoginApplicationSettings">
+    <option name="activeUser" value="nicola.defiorenze@qonto.com" />
+    <option name="userEmail2FeaturesStore">
+      <map>
+        <entry key="nicola.defiorenze@qonto.com">
+          <value>
+            <set>
+              <option value="Firebase" />
+              <option value="User Info" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
