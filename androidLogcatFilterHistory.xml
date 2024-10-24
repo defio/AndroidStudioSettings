@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine NewBeneficiaryCoreInfoFragment" />
+        <option value="package:mine cor" />
         <option value="package:mine fragment" />
         <option value="package:mine okhttp" />
         <option value="package:mine activity" />
@@ -20,8 +22,6 @@
         <option value="package:mine test -&gt; " />
         <option value="package:mine test -&gt;" />
         <option value="package:mine &quot;test -&gt;&quot;" />
-        <option value="package:mine invoice.status:" />
-        <option value="package:mine createInvoice" />
       </list>
     </option>
   </component>
