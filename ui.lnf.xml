@@ -10,9 +10,6 @@
     <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
-    <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
-    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="75" />
-    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="54" />
   </component>
 </application>

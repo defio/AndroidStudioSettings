@@ -1,16 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine is:error " />
         <option value="package:mine " />
+        <option value="package:mine cooperative" />
+        <option value="package:mine fragment" />
+        <option value="package:mine" />
+        <option value="package:mine is:error " />
         <option value="package:mine NewBeneficiaryCoreInfoFragment" />
         <option value="package:mine cor" />
-        <option value="package:mine fragment" />
         <option value="package:mine okhttp" />
         <option value="package:mine activity" />
-        <option value="package:mine" />
         <option value="package:mine NewBeneficiaryCoreInfoViewModel created" />
         <option value="package:mine created" />
         <option value="package:mine err" />
@@ -22,7 +22,6 @@
         <option value="package:mine NewSwiftTransferActivity " />
         <option value="package:mine   " />
         <option value="package:mine test -&gt; " />
-        <option value="package:mine test -&gt;" />
       </list>
     </option>
   </component>
