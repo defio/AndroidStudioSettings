@@ -1,11 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine coop" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine coop" />
+        <option value="package:mine" />
+        <option value="package:mine qa" />
         <option value="package:mine " />
         <option value="package:mine cooperative" />
         <option value="package:mine fragment" />
-        <option value="package:mine" />
         <option value="package:mine is:error " />
         <option value="package:mine NewBeneficiaryCoreInfoFragment" />
         <option value="package:mine cor" />
@@ -20,8 +23,6 @@
         <option value="package:mine Dispatched Action:  " />
         <option value="package:mine Activity " />
         <option value="package:mine NewSwiftTransferActivity " />
-        <option value="package:mine   " />
-        <option value="package:mine test -&gt; " />
       </list>
     </option>
   </component>
