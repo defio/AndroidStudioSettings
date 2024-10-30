@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'qonto-android'" />
-    <option name="defaultScopeName" value="Project 'qonto-android'" />
-    <option name="SEARCH_SCOPE" value="Project 'qonto-android'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
     <mask>*Remote*.kt</mask>
