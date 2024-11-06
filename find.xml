@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Screen.kt" />
     <mask>styl*.xml</mask>
     <mask>*Converter.kt</mask>
     <mask>*Remote*.kt</mask>
@@ -39,5 +40,6 @@
     <mask>*.gradle</mask>
     <mask>*Module.kt</mask>
     <mask>*ci.yml</mask>
+    <mask>*Screen.kt</mask>
   </component>
 </application>
